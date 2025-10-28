@@ -1,7 +1,7 @@
 {
   "name": "electronic-device-sales",
   "version": "1.0.0",
-  "description": "",
+  "description": "“Full Stack Single Page Application using AngularJS, Node.js, and MongoDB”",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,14 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajitha3109/Single-Page-Application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajitha3109/Single-Page-Application/issues"
+  },
+  "homepage": "https://github.com/ajitha3109/Single-Page-Application#readme"
 }

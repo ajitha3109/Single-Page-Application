@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/electronic-device-sales/static/css/main.89d72f4f.css",
-    "main.js": "/electronic-device-sales/static/js/main.c8103957.js",
-    "static/js/453.d7446e4a.chunk.js": "/electronic-device-sales/static/js/453.d7446e4a.chunk.js",
-    "index.html": "/electronic-device-sales/index.html",
-    "main.89d72f4f.css.map": "/electronic-device-sales/static/css/main.89d72f4f.css.map",
-    "main.c8103957.js.map": "/electronic-device-sales/static/js/main.c8103957.js.map",
-    "453.d7446e4a.chunk.js.map": "/electronic-device-sales/static/js/453.d7446e4a.chunk.js.map"
+    "main.css": "/Single-Page-Application/static/css/main.89d72f4f.css",
+    "main.js": "/Single-Page-Application/static/js/main.6b618696.js",
+    "static/js/453.d7446e4a.chunk.js": "/Single-Page-Application/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/Single-Page-Application/index.html",
+    "main.89d72f4f.css.map": "/Single-Page-Application/static/css/main.89d72f4f.css.map",
+    "main.6b618696.js.map": "/Single-Page-Application/static/js/main.6b618696.js.map",
+    "453.d7446e4a.chunk.js.map": "/Single-Page-Application/static/js/453.d7446e4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89d72f4f.css",
-    "static/js/main.c8103957.js"
+    "static/js/main.6b618696.js"
   ]
 }
